@@ -34,7 +34,7 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Автоматизированное+тестирование)](https://git.io/typing-svg)
 - Java, espresso, junit, allure, cases, check-list, plan [Тестирование мобильного приложения под андроид: Дипломная работа](https://github.com/ivan3035789/DiplomQA)
-- Java, espresso, junit, allure, cases, check-list, plan, CI [Тестирование мобильного приложения под андроид: Дипломная работа с CI версией](https://github.com/ivan3035789/DiplomQA)
+- Java, espresso, junit, allure, cases, check-list, plan, CI [Тестирование мобильного приложения под андроид: Дипломная работа версия с CI](https://github.com/ivan3035789/MobileHospise)
 - java, MySQL 8, Docker-compose: [Тестирование приложения по входу в систему при получения кода из базы данных](https://github.com/ivan3035789/AQL)
 - java, allure, CI, issues, selenide: [Тестирование приложения по заказу карт](https://github.com/ivan3035789/CardDeliveryOrderDateChange)
 - java, allure, CI, selenide: [Тестирование приложения по переводу средств с одной карты на другую](https://github.com/ivan3035789/Transaction)
