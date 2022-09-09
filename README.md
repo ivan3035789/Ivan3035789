@@ -1,32 +1,13 @@
 ### Hi there 👋
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
 
-# Привет
+# _Привет, я Краснослободцев Иван, мне 34 года я QA Инженер_
 
-_Я Краснослободцев Иван, мне 34 года я QA Инженер_
-
-## *Вот, что я умею*
+## *Мой опыт:*
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Навыки:)](https://git.io/typing-svg)
-- Postman
-- JMeter
-- SQL
-- CSS
-- Java
-- Git
-- HTML5
-- Atlassian Jira
-- MS PowerPoint
-- Test case
-- check-list
-- Bug Reporting
-- Тестирование
-- Windows
-- Android
-- Internet
-- Google Docs
-- DevTools
-- JavaScript
-- Docker
+- Postman, JMeter, SQL, CSS, Java, Git, HTML5, Atlassian Jira, Test case, check-list, Bug Reporting, Тестирование, Windows, Android, Internet, Google Docs, DevTools, JavaScript, Docker
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Ключевые+навыки:)](https://git.io/typing-svg)
 
@@ -58,8 +39,6 @@ _Я Краснослободцев Иван, мне 34 года я QA Инжен
 - java, allure, CI, issues, selenide: [Тестирование приложения по заказу карт](https://github.com/ivan3035789/CardDeliveryOrderDateChange)
 - java, allure, CI, selenide: [Тестирование приложения по переводу средств с одной карты на другую](https://github.com/ivan3035789/Transaction)
 - java, allure, selenide, Docker-compose, junit, MySQL [Курсовой проект ]()
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Сертификаты+Нетологии)](https://git.io/typing-svg)
 
