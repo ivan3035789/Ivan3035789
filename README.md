@@ -6,7 +6,6 @@ _Я Краснослободцев Иван, мне 34 года я QA Инжен
 
 ## *Вот, что я умею*
 
-Навыки:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Навыки:)](https://git.io/typing-svg)
 - Postman
 - JMeter
@@ -30,7 +29,6 @@ _Я Краснослободцев Иван, мне 34 года я QA Инжен
 - Docker
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Ключевые+навыки:)](https://git.io/typing-svg)
-Ключевые навыки:
 
 - Ручное тестирование, написание тест-кейсов, тест-дизайн
 
@@ -81,6 +79,7 @@ _Я Краснослободцев Иван, мне 34 года я QA Инжен
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Дополнительные+материалы)](https://git.io/typing-svg)
 [Основы вёрстки сайта](https://netology.ru/backend/api/user/programs/19759/pdf_certificate)
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
 <!--
 **ivan3035789/Ivan3035789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
