@@ -56,7 +56,7 @@
 
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Дополнительные+материалы)](https://git.io/typing-svg)
-[Основы вёрстки сайта](https://netology.ru/backend/api/user/programs/19759/pdf_certificate)
+[Основы вёрстки сайта](https://github.com/ivan3035789/pictures/blob/master/pictures/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%B2%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B8%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0.pdf)
 
 <!--
 **ivan3035789/Ivan3035789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
