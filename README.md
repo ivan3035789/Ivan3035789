@@ -2,7 +2,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
 
-# _Привет, я Краснослободцев Иван, мне 34 года я QA Инженер_
+# _Привет, я Краснослободцев Иван, мне 35 лет я Специалист по тестированию в области информационных технологий_
 
 ## *Мой опыт:*
 
