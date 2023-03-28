@@ -34,9 +34,9 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Ручное+тестирование)](https://git.io/typing-svg)
 
-- Сайт [ITSSport](https://github.com/ivan3035789/ITSSport) функциональное ручное тестирование UI, кроссбраузерное тестирование, тестирование пользовательского интерфейса, тестирование удобства использования [ITSport](https://github.com/ivan3035789/ITSSport)
-- Приложение [Яндекс переводчик](https://www.yandex.ru/search/?text=%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D0%BA+%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD&lr=213) функциональное ручное тестирование UI, кроссбраузерное тестирование, тестирование пользовательского интерфейса, тестирование удобства использования [Yandex](https://github.com/ivan3035789/Yandex)
-- [Яндекс погода](https://docs.google.com/spreadsheets/d/1yuc618zsYGRAcd2Um7GtC8S1M5H12UiACuzEINo2AvI/edit#gid=0) функциональное ручное тестирование UI, кроссбраузерное тестирование, тестирование пользовательского интерфейса, тестирование удобства использования [Яндекс погода](https://yandex.ru/pogoda/moscow?lat=55.753215&lon=37.622504)
+- Сайт [ITSSport](https://github.com/ivan3035789/ITSSport). Проведено функциональное ручное тестирование UI, кроссбраузерное тестирование, тестирование пользовательского интерфейса, тестирование удобства использования [Артефакты, результаты](https://github.com/ivan3035789/ITSSport)
+- Приложение [Яндекс переводчик](https://www.yandex.ru/search/?text=%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D0%BA+%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD&lr=213). Проведено функциональное ручное тестирование UI, кроссбраузерное тестирование, тестирование пользовательского интерфейса, тестирование удобства использования [Артефакты, результаты](https://github.com/ivan3035789/Yandex)
+- Приложение [Яндекс погода](https://docs.google.com/spreadsheets/d/1yuc618zsYGRAcd2Um7GtC8S1M5H12UiACuzEINo2AvI/edit#gid=0). Проведено функциональное ручное тестирование UI, кроссбраузерное тестирование, тестирование пользовательского интерфейса, тестирование удобства использования [Артефакты, результаты](https://yandex.ru/pogoda/moscow?lat=55.753215&lon=37.622504)
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Автоматизированное+тестирование)](https://git.io/typing-svg)
 - Java, espresso, junit, allure, cases, check-list, plan [Тестирование мобильного приложения “Мобильный хоспис” под андроид: Дипломная работа. Проведение функционального UI тестирования](https://github.com/ivan3035789/DiplomQA)
