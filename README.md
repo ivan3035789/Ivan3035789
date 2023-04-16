@@ -34,21 +34,20 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Ручное+тестирование)](https://git.io/typing-svg)
 
-- Сайт [ITSSport](https://github.com/ivan3035789/ITSSport). Проведено функциональное ручное тестирование UI, кроссбраузерное тестирование, тестирование пользовательского интерфейса, тестирование удобства использования [Артефакты, результаты](https://github.com/ivan3035789/ITSSport)
-- Приложение [Яндекс переводчик](https://www.yandex.ru/search/?text=%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D0%BA+%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD&lr=213). Проведено функциональное ручное тестирование UI, кроссбраузерное тестирование, тестирование пользовательского интерфейса, тестирование удобства использования [Артефакты, результаты](https://github.com/ivan3035789/Yandex)
-- Приложение [Яндекс погода](https://docs.google.com/spreadsheets/d/1yuc618zsYGRAcd2Um7GtC8S1M5H12UiACuzEINo2AvI/edit#gid=0). Проведено функциональное ручное тестирование UI, кроссбраузерное тестирование, тестирование пользовательского интерфейса, тестирование удобства использования [Артефакты, результаты](https://yandex.ru/pogoda/moscow?lat=55.753215&lon=37.622504)
+- Сайт [ITSSport](https://github.com/ivan3035789/ITSSport). Проведено функциональное ручное тестирование UI, кроссбраузерное тестирование, тестирование пользовательского интерфейса, тестирование удобства использования [ITSSport](https://github.com/ivan3035789/ITSSport)
+- Приложение [Яндекс переводчик](https://www.yandex.ru/search/?text=%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D0%BA+%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD&lr=213). Проведено функциональное ручное тестирование UI, кроссбраузерное тестирование, тестирование пользовательского интерфейса, тестирование удобства использования [Yandex](https://github.com/ivan3035789/Yandex)
+- Приложение [Яндекс погода](https://yandex.ru/pogoda/moscow?lat=55.753215&lon=37.622504 ). Проведено функциональное ручное тестирование UI, кроссбраузерное тестирование, тестирование пользовательского интерфейса, тестирование удобства использования [чек-лист, тест-кейсы, баг-трекер, дефекты](https://docs.google.com/spreadsheets/d/1yuc618zsYGRAcd2Um7GtC8S1M5H12UiACuzEINo2AvI/edit#gid=0)
 - Сервер для тестирования API [Petstore](https://petstore.swagger.io/) Созданы коллекции, environment, тестовые данные, чек-лист, тест-кейсы [postmanTest
 ](https://github.com/ivan3035789/postmanTest)
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Автоматизированное+тестирование)](https://git.io/typing-svg)
-- Java, espresso, junit, allure, cases, check-list, plan [Тестирование мобильного приложения “Мобильный хоспис” под андроид: Дипломная работа. Проведение функционального UI тестирования](https://github.com/ivan3035789/DiplomQA)
-- Java, espresso, junit, allure, cases, check-list, plan, CI [Тестирование мобильного приложения “Мобильный хоспис” под андроид: Дипломная работа версия с CI. Проведение функционального UI тестирования.](https://github.com/ivan3035789/MobileHospise)
-- java, MySQL 8, Docker-compose: [Тестирование web-приложения по входу в систему при получения кода подтверждения из базы данных](https://github.com/ivan3035789/AQL)
-- java, allure, CI, issues, selenide: [Тестирование web-приложения по заказу карт](https://github.com/ivan3035789/CardDeliveryOrderDateChange)
-- java, allure, CI, selenide: [Тестирование web-приложения по переводу средств с одной карты на другую](https://github.com/ivan3035789/Transaction)
-- java, allure, selenide, Docker-compose, junit, MySQL [Курсовой проект Тестирование web-приложения по покупке тура](https://github.com/ivan3035789/CourseProjectQA)
+- Используемые инструменты: Java, espresso, junit, allure, cases, check-list, plan, CI [Тестирование мобильного приложения “Мобильный хоспис” под андроид: Дипломная работа. Проведение функционального UI тестирования.](https://github.com/ivan3035789/MobileHospise)
+- Используемые инструменты: java, MySQL 8, Docker-compose: [Тестирование web-приложения по входу в систему при получения кода подтверждения из базы данных](https://github.com/ivan3035789/AQL)
+- Используемые инструменты: java, allure, CI, issues, selenide: [Тестирование web-приложения по заказу банковских карт](https://github.com/ivan3035789/CardDeliveryOrderDateChange)
+- Используемые инструменты: java, allure, CI, selenide: [Тестирование web-приложения банка по переводу денежных средств с одной карты на другую](https://github.com/ivan3035789/Transaction)
+- Используемые инструменты: java, allure, selenide, Docker-compose, junit, MySQL [Курсовой проект Тестирование web-приложения по покупке тура](https://github.com/ivan3035789/CourseProjectQA)
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Сертификаты+Нетологии)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Сертификаты)](https://git.io/typing-svg)
 
 - [Введение в тестирование](https://github.com/ivan3035789/pictures/blob/master/pictures/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.pdf)
 - [Git- система контроля версий](https://github.com/ivan3035789/pictures/blob/master/pictures/git%20-%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%20%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8F%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B9.pdf)
@@ -61,10 +60,7 @@
 - [Тестирование мобильных приложений](https://github.com/ivan3035789/pictures/blob/master/pictures/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9.pdf)
 - [Тестирование безопасности](https://github.com/ivan3035789/pictures/blob/master/pictures/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.pdf)
 - [Инженер по тестированию: с нуля до middle](https://github.com/ivan3035789/pictures/blob/master/pictures/%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%20%D0%BF%D0%BE%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E%20%D1%81%20%D0%BD%D1%83%D0%BB%D1%8F%20%D0%B4%D0%BE%20middle.pdf)
-
-
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Дополнительные+материалы)](https://git.io/typing-svg)
-[Основы вёрстки сайта](https://github.com/ivan3035789/pictures/blob/master/pictures/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%B2%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B8%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0.pdf)
+- [Основы вёрстки сайта](https://github.com/ivan3035789/pictures/blob/master/pictures/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%B2%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B8%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0.pdf)
 
 <!--
 **ivan3035789/Ivan3035789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
