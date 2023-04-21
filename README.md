@@ -15,7 +15,7 @@
 
 - Тестирование веб-приложений, API, понимание клиент-серверного взаимодействия, работа с DevTools, Postman
 
-- Понимание работы баз данных, написание SQL-запросов
+- Понимание работы баз данных, написание SQL-запросов (DDL, DML)
 
 - Работа с Git, одновременная работа с несколькими репозиториями
 
@@ -46,6 +46,10 @@
 - Используемые инструменты: java, allure, CI, issues, selenide: [Тестирование web-приложения по заказу банковских карт](https://github.com/ivan3035789/CardDeliveryOrderDateChange)
 - Используемые инструменты: java, allure, CI, selenide: [Тестирование web-приложения банка по переводу денежных средств с одной карты на другую](https://github.com/ivan3035789/Transaction)
 - Используемые инструменты: java, allure, selenide, Docker-compose, junit, MySQL [Курсовой проект Тестирование web-приложения по покупке тура](https://github.com/ivan3035789/CourseProjectQA)
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Нагрузочное+тестирование)](https://git.io/typing-svg)
+- [План по тестированию информационной системы для администрирования залов, сеансов и предварительного бронирования билетов](https://github.com/ivan3035789/CourseProjectQA)
+
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Сертификаты)](https://git.io/typing-svg)
 
