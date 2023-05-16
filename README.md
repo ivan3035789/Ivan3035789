@@ -55,6 +55,7 @@
 - Используемые инструменты: Java, allure, CI, issues, selenide: [Тестирование web-приложения по заказу банковских карт](https://github.com/ivan3035789/CardDeliveryOrderDateChange)
 - Используемые инструменты: IntelliJ IDEA, Java, allure, CI, selenide: [Тестирование web-приложения банка по переводу денежных средств с одной карты на другую](https://github.com/ivan3035789/Transaction)
 - Используемые инструменты: IntelliJ IDEA, Java, allure, selenide, Docker-compose, junit, MySQL [Курсовой проект Тестирование web-приложения по покупке тура](https://github.com/ivan3035789/CourseProjectQA)
+- Используемые инструменты: IntelliJ IDEA, Java, rest-assured [Тестирование API магазина Petstore](https://github.com/ivan3035789/PetstoreApi)
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Нагрузочное+тестирование)](https://git.io/typing-svg)
 - План по тестированию [информационной системы для администрирования залов, сеансов и предварительного бронирования билетов](https://github.com/ivan3035789/cinema)
