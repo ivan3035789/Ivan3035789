@@ -5,7 +5,7 @@
 </div>
 
 
-# _Я Иван, мне 35 лет я Специалист по тестированию в области информационных технологий_
+# _Я Иван, мне 36 лет я Специалист по тестированию в области информационных технологий_
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ivan3035789)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -60,6 +60,9 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Нагрузочное+тестирование)](https://git.io/typing-svg)
 - План по тестированию [информационной системы для администрирования залов, сеансов и предварительного бронирования билетов](https://github.com/ivan3035789/cinema)
 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Небольшие+проекты+на+java)](https://git.io/typing-svg)
+- [Телеграм Bot](https://github.com/ivan3035789/Bot.git)
+- [Оконное приложение](https://github.com/ivan3035789/KrasnoslobodtsevIvanJava.git)
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Сертификаты)](https://git.io/typing-svg)
 
